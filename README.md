@@ -43,7 +43,7 @@
 Install it by executing:
 
 ```shell
-npm i "@igor.dvlpr/biome-config-igorskyflyer"
+npm i -D "@igor.dvlpr/biome-config-igorskyflyer"
 ```
 
 then extend the project's `biome.json` file from it, i.e.:

@@ -1,0 +1,35 @@
+{
+    "name": "@igor.dvlpr/biome-config-igorskyflyer",
+    "version": "1.0.0",
+    "description": "👽 An opinionated config for Biome to be used in JavaScript, TypeScript, JSX, TSX and any JavaScript-related projects. 🐺",
+    "sideEffects": "false",
+    "main": "./biome.json",
+    "files": ["biome.json"],
+    "scripts": {
+        "pub": "npm publish --access public"
+    },
+    "keywords": [
+        "biome",
+        "config",
+        "lint",
+        "linter",
+        "format",
+        "formatter",
+        "igorskyflyer",
+        "igor.dvlpr"
+    ],
+    "license": "MIT",
+    "author": "Igor Dimitrijević <igor.dvlpr@gmail.com> (https://github.com/igorskyflyer)",
+    "funding": "https://ko-fi.com/igorskyflyer",
+    "homepage": "https://github.com/igorskyflyer/npm-biome-config-igorskyflyer",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/igorskyflyer/npm-biome-config-igorskyflyer.git"
+    },
+    "bugs": {
+        "url": "https://github.com/igorskyflyer/npm-biome-config-igorskyflyer/issues"
+    },
+    "devDependencies": {
+        "@biomejs/biome": "^1.8.3"
+    }
+}

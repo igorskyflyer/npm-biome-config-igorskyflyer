@@ -51,7 +51,7 @@ then extend the project's `biome.json` file from it, i.e.:
 <br>
 
 `biome.json`
-```json
+```jsonc
 {
   "extends": ["@igor.dvlpr/biome-config-igorskyflyer"]
 

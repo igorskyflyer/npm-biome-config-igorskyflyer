@@ -1,6 +1,6 @@
 {
     "name": "@igor.dvlpr/biome-config-igorskyflyer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "👽 An opinionated config for Biome to be used in JavaScript, TypeScript, JSX, TSX and any JavaScript-related projects. 🐺",
     "sideEffects": "false",
     "engines": {

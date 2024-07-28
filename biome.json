@@ -1,0 +1,81 @@
+{
+    "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
+    "organizeImports": {
+        "enabled": true
+    },
+    "formatter": {
+        "ignore": ["**/node_modules/**"],
+        "formatWithErrors": false
+    },
+    "json": {
+        "formatter": {
+            "indentStyle": "space",
+            "indentWidth": 4,
+            "lineEnding": "lf"
+        }
+    },
+    "javascript": {
+        "formatter": {
+            "arrowParentheses": "always",
+            "bracketSameLine": true,
+            "bracketSpacing": true,
+            "indentStyle": "space",
+            "indentWidth": 2,
+            "quoteProperties": "preserve",
+            "quoteStyle": "single",
+            "semicolons": "asNeeded",
+            "trailingCommas": "none",
+            "lineEnding": "lf"
+        }
+    },
+    "linter": {
+        "ignore": ["**/node_modules/**", "**/test/**"],
+        "rules": {
+            "recommended": true,
+            "correctness": {
+                "useArrayLiterals": "error",
+                "noUnusedVariables": "error",
+                "noUnusedPrivateClassMembers": "error",
+                "noUnusedImports": "error"
+            },
+            "complexity": {
+                "useSimplifiedLogicExpression": "error",
+                "noExcessiveCognitiveComplexity": "error"
+            },
+            "performance": {
+                "noBarrelFile": "error",
+                "noReExportAll": "error"
+            },
+            "style": {
+                "noInferrableTypes": "off",
+                "noNegationElse": "error",
+                "useBlockStatements": "error",
+                "useCollapsedElseIf": "error",
+                "useConsistentArrayType": "error",
+                "useFilenamingConvention": {
+                    "level": "error",
+                    "options": {
+                        "strictCase": true,
+                        "requireAscii": true
+                    }
+                },
+                "useShorthandArrayType": "error",
+                "useShorthandAssign": "error"
+            },
+            "suspicious": {
+                "noExplicitAny": "off"
+            },
+            "nursery": {
+                "useTopLevelRegex": "error",
+                "useThrowOnlyError": "error",
+                "useImportExtensions": "error",
+                "useExplicitLengthCheck": "error",
+                "useErrorMessage": "error",
+                "useConsistentBuiltinInstantiation": "error",
+                "useAdjacentOverloadSignatures": "error",
+                "noYodaExpression": "error",
+                "noConsole": "warn"
+            }
+        }
+    }
+}

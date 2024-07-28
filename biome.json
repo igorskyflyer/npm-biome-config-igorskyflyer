@@ -63,10 +63,10 @@
                 "useShorthandAssign": "error"
             },
             "suspicious": {
-                "noExplicitAny": "off"
+                "noExplicitAny": "info"
             },
             "nursery": {
-                "useTopLevelRegex": "error",
+                "useTopLevelRegex": "warn",
                 "useThrowOnlyError": "error",
                 "useImportExtensions": "error",
                 "useExplicitLengthCheck": "error",

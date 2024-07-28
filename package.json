@@ -19,6 +19,9 @@
         "linter",
         "format",
         "formatter",
+        "rules",
+        "object",
+        "error",
         "igorskyflyer",
         "igor.dvlpr"
     ],

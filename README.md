@@ -62,17 +62,27 @@ then extend the project's `biome.json` file from it, i.e.:
 
 ---
 
+<br>
+
 ## 📝 Changelog
 
 📑 The changelog is available here: [CHANGELOG.md](https://github.com/igorskyflyer/npm-biome-config-igorskyflyer/blob/main/CHANGELOG.md).
 
+<br>
+
 ---
+
+<br>
 
 ## 🪪 License
 
 Licensed under the MIT license which is available here, [MIT license](https://github.com/igorskyflyer/npm-biome-config-igorskyflyer/blob/main/LICENSE).
 
+<br>
+
 ---
+
+<br>
 
 ## 🧬 Related
 
@@ -104,9 +114,9 @@ Licensed under the MIT license which is available here, [MIT license](https://gi
 
 > _🧭 Add an easy-to-use navigational button (jump to top/bottom) to your Astro site. 🔼_
 
----
-
 <br>
+
+---
 
 ### 👨🏻‍💻 Author
 Created by **Igor Dimitrijević** ([*@igorskyflyer*](https://github.com/igorskyflyer/)).

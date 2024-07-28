@@ -3,12 +3,14 @@
     "version": "1.0.0",
     "description": "👽 An opinionated config for Biome to be used in JavaScript, TypeScript, JSX, TSX and any JavaScript-related projects. 🐺",
     "sideEffects": "false",
+    "engines": {
+        "node": ">=20"
+    },
     "type": "module",
     "exports": {
-        "./biome": "./biome.json"
+        ".": "./biome.json"
     },
-    "main": "./biome.json",
-    "files": ["biome.json"],
+    "files": ["./biome.json"],
     "scripts": {
         "pub": "npm publish --access public"
     },

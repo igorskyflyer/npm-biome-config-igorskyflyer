@@ -15,7 +15,10 @@
   <blockquote>
     <br>
     <h4>💖 Support further development</h4>
-    <span>I work hard for every project, including this one and your support means a lot to me!
+    <span>I work hard for every project, including this one
+    <br>
+    and your support means a lot to me!
+    <br>
     <br>
     Consider buying me a coffee. ☕
     <br>

@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "description": "👽 An opinionated config for Biome to be used in JavaScript, TypeScript, JSX, TSX and any JavaScript-related projects. 🐺",
     "sideEffects": "false",
+    "type": "module",
+    "exports": {
+        "./biome": "./biome.json"
+    },
     "main": "./biome.json",
     "files": ["biome.json"],
     "scripts": {

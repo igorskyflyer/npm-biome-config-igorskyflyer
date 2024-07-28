@@ -29,7 +29,7 @@
         }
     },
     "linter": {
-        "ignore": ["**/node_modules/**", "**/test/**"],
+        "ignore": ["**/node_modules/**"],
         "rules": {
             "recommended": true,
             "correctness": {

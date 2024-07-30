@@ -6,7 +6,7 @@
 
 ## v1.0.2
 
-<p align="right"><em>29-Jul-2024</em></p>
+<p align="right"><em>30-Jul-2024</em></p>
 
 - **✅ fix**: set level of `noExcessiveCognitiveComplexity` to `warn`
 

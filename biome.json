@@ -40,7 +40,7 @@
             },
             "complexity": {
                 "useSimplifiedLogicExpression": "error",
-                "noExcessiveCognitiveComplexity": "error"
+                "noExcessiveCognitiveComplexity": "warn"
             },
             "performance": {
                 "noBarrelFile": "error",

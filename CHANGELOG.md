@@ -4,6 +4,15 @@
 
 <br>
 
+## v1.0.2
+
+<p align="right"><em>29-Jul-2024</em></p>
+
+- **✅ fix**: set level of `noExcessiveCognitiveComplexity` to `warn`
+
+<br>
+<br>
+
 ## v1.0.1
 
 <p align="right"><em>29-Jul-2024</em></p>

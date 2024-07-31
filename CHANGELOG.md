@@ -4,6 +4,15 @@
 
 <br>
 
+## v1.0.3
+
+<p align="right"><em>31-Jul-2024</em></p>
+
+- **✅ fix**: set `formatWithErrors` to `true`
+
+<br>
+<br>
+
 ## v1.0.2
 
 <p align="right"><em>30-Jul-2024</em></p>

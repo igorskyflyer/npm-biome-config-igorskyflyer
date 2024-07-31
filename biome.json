@@ -5,7 +5,7 @@
     },
     "formatter": {
         "ignore": ["**/node_modules/**"],
-        "formatWithErrors": false
+        "formatWithErrors": true
     },
     "json": {
         "formatter": {

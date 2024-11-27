@@ -53,7 +53,7 @@ then extend the project's `biome.json` file from it, i.e.:
 `biome.json`
 ```jsonc
 {
-  "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
+  "$schema": "https://biomejs.dev/schemas/1.9.4/schema.json",
   "extends": ["@igor.dvlpr/biome-config-igorskyflyer"]
 
   // Additional project-specific configuration

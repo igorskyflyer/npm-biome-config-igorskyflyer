@@ -4,6 +4,22 @@
 
 <br>
 
+## v2.0.1
+
+<p align="right"><em>19-Jul-2025</em></p>
+
+**✅ fix**: fix CHANGELOG and README
+
+<br>
+
+## v2.0.0
+
+<p align="right"><em>19-Jul-2025</em></p>
+
+- **❌ BREAKING**: upgrade to Biome `v.2.0.0`
+
+<br>
+
 ## v1.0.3
 
 <p align="right"><em>31-Jul-2024</em></p>

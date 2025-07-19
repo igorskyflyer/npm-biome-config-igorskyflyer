@@ -1,6 +1,6 @@
 {
     "name": "@igor.dvlpr/biome-config-igorskyflyer",
-    "version": "1.0.4",
+    "version": "1.1.0",
     "description": "👽 An opinionated config for Biome to be used in JavaScript, TypeScript, JSX, TSX and any JavaScript-related projects. 🐺",
     "sideEffects": "false",
     "engines": {
@@ -10,7 +10,9 @@
     "exports": {
         ".": "./biome.json"
     },
-    "files": ["./biome.json"],
+    "files": [
+        "./biome.json"
+    ],
     "scripts": {
         "pub": "npm publish --access public"
     },
@@ -39,9 +41,9 @@
         "url": "https://github.com/igorskyflyer/npm-biome-config-igorskyflyer/issues"
     },
     "devDependencies": {
-        "@biomejs/biome": "^1.9.4"
+        "@biomejs/biome": "^2.1.2"
     },
     "peerDependencies": {
-        "@biomejs/biome": "^1.9.4"
+        "@biomejs/biome": "^2.1.2"
     }
 }

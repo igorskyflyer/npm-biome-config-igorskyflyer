@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/igorskyflyer/npm-biome-config-igorskyflyer/main/assets/icon.png" alt="Config for Biome logo" width="256" height="256">
 <h1>Config for Biome</h1>
 <h4>By igorskyflyer (Igor Dimitrijević)</h4>
-</div>
+</div>v
 
 <br>
 
@@ -40,6 +40,21 @@
 </div>
 
 <br>
+<br>
+
+## 🚀 Features
+
+- ✅ strict linting rules for **correctness**, **performance**, and **style**
+- 🔄 **auto-import** organization to maintain **clean** module structure
+- 🎨 custom **formatting** for **JSON** & **JavaScript**/**TypeScript** with **single** quotes, **LF** endings, and **space** indentation
+- 🧠 **complexity** warnings to reduce cognitive **overload** and improve logic **clarity**
+- ⚡ **performance**-focused rules blocking barrel files and re-export-all patterns
+- 📁 enforced **filenaming** **conventions** with strict casing and ASCII requirements
+- 🛡️ **suspicious** **behavior** checks including console usage, overload signatures, and error messaging
+- ✒️ **no** **trailing** commas or **unnecessary** semicolons for **cleaner** output
+- 🧹 catches **unused** imports, variables, and class members before they **clutter** your codebase
+- 🔍 **supports** adjacent **overloads** & explicit length checks for **precise** **design** **patterns**
+
 <br>
 
 ## 🕵🏼 Usage

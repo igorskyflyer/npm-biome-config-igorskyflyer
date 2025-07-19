@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/igorskyflyer/npm-biome-config-igorskyflyer/main/assets/icon.png" alt="Config for Biome logo" width="256" height="256">
 <h1>Config for Biome</h1>
+<h4>By igorskyflyer (Igor Dimitrijević)</h4>
 </div>
 
 <br>
